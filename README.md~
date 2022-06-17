@@ -1,0 +1,7 @@
+##Bem-Vindo ao Pseudo Encriptador Rime (Remastered Igor Master Encryptation )
+
+Este É um Projeto Meramente Escolar,  por isso não utilize-o para criptografia real onde segurança e performance é requerida.
+
+Este projeto visa simular um mecânismo de criptografia funcional, baseado em um modelo passado pelo nosso professor, que embaralha a menssagem transformando-a exclusivamente em números, além de umas melhorias que o tornam um pouco mais resistente a criptoanálise e eliminam o problema de colisão numérica.
+
+Copyright © 2022 Julie Missay Sanday e Mateus Felipe da Silveira Vieira
