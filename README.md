@@ -17,7 +17,9 @@ Para utilizar o Rime você somente necessita de um runtime JavaScript compatíve
 
 Você pode Utilizar o rime alterando diretamente o arquivo e rodando o source code mas isso não é recomendado, cheque a lista de interfaces de usos disponíveis
 
-> [InTime](#) (Web Interface)
+> [Interface Web](#) (Web Interface)
+
+> [Binding na Classe](#)
 
 ## RoadMap:
 
