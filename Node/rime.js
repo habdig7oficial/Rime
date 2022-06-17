@@ -12,7 +12,7 @@ Encryptation
 
 /*
 
-Este Arquivo é parte do programa Rime (Deno Version)
+Este Arquivo é parte do programa Rime (NodeJS Version)
 
 Copyright © 2022 Julie Missay Sanday e Mateus Felipe da Silveira Vieira
 
@@ -438,3 +438,7 @@ tamanho do primeiro descarte
 posição da chave
 
 */
+
+
+module.exports = { Random, Criptografia }
+
